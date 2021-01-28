@@ -89,5 +89,11 @@ In this homework assignment, you will need to:
 * Submit the link to your GitHub project to Bootcamp Spot.
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+ 
+ - - -
+
+## Conclusion
+
+The SVM and Logistic Regression models have very similar accuracy levels. 
 
 ##### © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
